@@ -3,7 +3,7 @@ HTML Foundations | "Project: Landing Page" from "theodinproject.com"
 
 ## Recipes
 <div align="center">
-  <img src ="odin-landing-page.png" style="width: 250px" />
+  <img src ="odin-landing-page.png" style="width: 500px" />
 </div>
 
 ## A simple landing page website

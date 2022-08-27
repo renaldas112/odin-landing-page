@@ -7,7 +7,7 @@ HTML Foundations | "Project: Landing Page" from "theodinproject.com"
 </div>
 
 ## A simple landing page website
-Simple landing page design using CSS (used flexbox instead of grid)
+Simple landing page design using CSS (used flexbox instead of grid) <br>
 Only did Desktop version (mobile wasn't part of the task)
 
 MIT © [Renaldas112]()

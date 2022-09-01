@@ -1,7 +1,7 @@
 # odin-landing-page
 HTML Foundations | "Project: Landing Page" from "theodinproject.com"
 
-## Recipes
+## Landing Page
 <div align="center">
   <img src ="odin-landing-page.png" style="width: 500px" />
 </div>
